@@ -1,0 +1,7 @@
+{
+  "name": "MedClarity",
+  "description": "Patient education and medical-text simplification platform translating complex clinical documents into clear, verified, multi-lingual patient instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
